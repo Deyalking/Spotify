@@ -1,0 +1,15 @@
+# 🎵 Spotify Hit Predictor
+
+This project uses machine learning to predict the popularity of a song based on its musical features (valence, energy, danceability, etc.).
+
+## 💻 Tech Stack
+- Python
+- scikit-learn (Linear Regression)
+- pandas, matplotlib
+
+## 📊 Dataset
+Spotify dataset from Kaggle
+https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db/data
+
+## 🔮 Output
+Trained model predicts song popularity.
